@@ -1,0 +1,3 @@
+/home/Muhammad/CLionProjects/Bankamat__02/cmake-build-debug/CMakeFiles/Bankamat__02.dir
+/home/Muhammad/CLionProjects/Bankamat__02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Muhammad/CLionProjects/Bankamat__02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
